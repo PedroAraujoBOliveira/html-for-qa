@@ -1,0 +1,105 @@
+/* Estilo geral do corpo */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho */
+#topo {
+    background-color: #d0e6fa;
+    text-align: center;
+    padding: 20px;
+}
+
+#topo h1 {
+    color: #004080;
+    font-family: 'Georgia', serif;
+}
+
+#topo img {
+    border-radius: 50%;
+    margin-top: 10px;
+    border: 3px solid #004080;
+}
+
+/* Seções */
+.sessao {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-left: 5px solid #004080;
+    border-radius: 8px;
+}
+
+.sessao h2 {
+    color: #004080;
+    font-family: 'Verdana', sans-serif;
+}
+
+.sessao p, .sessao li {
+    font-family: 'Tahoma', sans-serif;
+    line-height: 1.6;
+}
+
+/* Contato */
+.contato ul {
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+}
+
+.contato li {
+    margin: 5px 0;
+}
+
+/* Links */
+a {
+    color: #0a66c2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #004080;
+    text-decoration: underline;
+}
+
+a[target="_blank"] {
+    font-style: oblique;
+}
+
+
+/* ODS */
+#ods {
+    text-align: center;
+    background-color: #d0e6fa;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#ods img {
+    width: 150px;
+    margin-top: 10px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 0.8rem;
+    padding: 10px;
+    color: gray;
+}
+
+/* Decorações de texto */
+strong {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+figcaption {
+    font-style: italic;
+    margin-top: 5px;
+}
