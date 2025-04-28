@@ -1,6 +1,6 @@
 # 💻 Programming for QA
 
-[![Project Status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/PedroAraujoBOliveira/html-for-qa)
+[![Project Status](https://img.shields.io/badge/status-desenvolvido-brightgreen)](https://github.com/PedroAraujoBOliveira/html-for-qa)
 [![GitHub last commit](https://img.shields.io/github/last-commit/PedroAraujoBOliveira/html-for-qa)](https://github.com/PedroAraujoBOliveira/html-for-qa)
 [![Made by Pedro](https://img.shields.io/badge/made%20by-Pedro-blue)](https://www.linkedin.com/in/pedroaraujoboliveira/)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
